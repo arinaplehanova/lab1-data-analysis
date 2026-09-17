@@ -18,16 +18,6 @@
 
 
 
-**## Как запустить**
-
-**1. Установить зависимости: pip install pandas numpy matplotlib seaborn jupyter**
-
-**2. Запустить Jupyter Notebook: jupyter notebook**
-
-**3. Открыть `notebooks/01\\\_data\\\_understanding.ipynb` и выполнить все ячейки (Kernel → Restart \& Run All).**
-
-
-
 **## Автор**
 
 **Плеханова Арина Владимировна, группа 303**
