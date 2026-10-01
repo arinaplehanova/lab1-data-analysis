@@ -10,12 +10,10 @@
 
 **Структура проекта**
 
-**- `data/` — исходный датасет `Titanic-Dataset.csv`**
-
-**- `notebooks/01_data_understanding.ipynb` — ноутбук с анализом**
-
-**- `report/quality_report.md` — отчёт о качестве данных**
-
+- `notebooks/01_data_understanding.ipynb` — первичный анализ и аудит данных
+- `notebooks/02_feature_types_and_quality.ipynb` — типы шкал, природа пропусков, выбросы
+- `report/quality_report.md` — отчёт по части 1
+- `report/quality_report_part2.md` — отчёт по части 2
 
 
 **Автор**
